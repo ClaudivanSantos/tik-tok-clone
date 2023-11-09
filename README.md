@@ -9,7 +9,7 @@
 
 ## 📫 Visualização do projeto
 
-<img align="center" height="50%" width="50%" src=".github/img.png" alt="screen" border="0">
+<img align="center" height="30%" width="30%" src=".github/img.png" alt="screen" border="0">
 
 ## 💻 Projeto
 O projeto foi criado inspirado no app TikTok
